@@ -1,0 +1,20 @@
+{
+  "name": "shebang-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swc-node/register": "^1.6.6",
+    "@swc/core": "^1.3.68",
+    "@types/node": "^20.4.1",
+    "@types/react": "^18.2.14",
+    "react": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
